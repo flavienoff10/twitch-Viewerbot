@@ -1,5 +1,5 @@
 {
-  "name": "mon-projet-streaming",
+  "name": "twitch-viewerbot",
   "version": "1.0.0",
   "description": "Projet Node.js avec équivalents des dépendances Python",
   "main": "index.js",
